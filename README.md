@@ -1,57 +1,117 @@
-<h1 align="center">Hola 👋, mi nombre es Jhosep Argomedo</h1>
+<h1 align="center">👋 Hola, soy Jhosep Argomedo</h1>
+<h3 align="center">💻 Estudiante de Ingeniería de Software | 🚀 Developer en formación</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7ab5d5&size=22&center=true&vCenter=true&width=500&lines=Apasionado+por+la+programación;Construyendo+proyectos+reales;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
 
-<p align="center">Soy un estudiante peruano de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Apasionado por la programación. <br> ¡En búsqueda de crear soluciones innovadoras! 🚀👨‍💻</p>
+---
 
-###
+## 🌟 Portafolio
 
-<h2 align="left">🔧 Habilidades</h2>
+<p align="center">
+  <b style="font-size:18px;">✨ Mi portafolio personal</b><br/>
+  <span>Un espacio donde muestro mis proyectos, habilidades y experiencia como desarrollador</span>
+</p>
 
-<div align="center">
-  <!-- Lenguajes -->
-  <h3>💻 Lenguajes</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  </div>
+<p align="center">
+  🔗 <a href="https://jhosep-ac.pages.dev/" target="_blank">
+    <b>https://jhosep-ac.pages.dev/</b>
+  </a>
+</p>
 
-  <!-- Bases de Datos -->
-  <h3>🗄️ Bases de Datos</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30" alt="mariadb logo" />
-  </div>
+---
 
-  <!-- Frameworks y Librerías -->
-  <h3>⚙️ Frameworks y Librerías</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo" />
-  </div>
+## 👨‍💻 Sobre mí
 
-  <!-- Herramientas -->
-  <h3>🛠️ Herramientas</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-    <img src="https://github.com/user-attachments/assets/47d3f2fe-f26f-4a28-a5e2-ad70a7845fdb" height="30" alt="heidisql logo" />
-  </div>
-</div>
+Soy estudiante de Ingeniería de Software en Lima, Perú, enfocado en el desarrollo web 🌐 y desarrollo móvil 📱.  
+Me apasiona crear aplicaciones funcionales y seguir aprendiendo nuevas tecnologías que me permitan construir soluciones modernas y eficientes.
 
-###
-##
+Actualmente desarrollo proyectos que fortalecen mis habilidades técnicas y mi enfoque en buenas prácticas de desarrollo.
 
-<div align="left">
-  <a href="https://x.com/Jhosep_JA" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/></a>
-  <a href="https://wa.me/51978777386?text=Hola%2C%20Jhosep!"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"/></a>
-  <a href="https://www.instagram.com/jh_slin/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-  <a href="mailto:jhosepjamil@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-  <a href="mailto:U20231D978@upc.edu.pe"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"/></a>
-</div>
+---
+
+## ⚙️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Vue-111827?style=for-the-badge&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MariaDB-111827?style=for-the-badge&logo=mariadb"/>
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+</p>
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Android_Studio-111827?style=for-the-badge&logo=androidstudio"/>
+  <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 Metodologías & Habilidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/User_Stories-1F2937?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Comunicación-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trabajo_en_Equipo-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resolución_de_Problemas-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptabilidad-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gestión_del_Tiempo-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creatividad-1F2937?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhosep-ac/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://wa.me/51978777386">
+    <img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp"/>
+  </a>
+  <a href="https://www.instagram.com/jh_slin/">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:jhosepjamil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
