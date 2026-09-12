@@ -108,7 +108,7 @@ Actualmente desarrollo proyectos que fortalecen mis habilidades técnicas y mi e
   <a href="https://wa.me/51978777386">
     <img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp"/>
   </a>
-  <a href="https://www.instagram.com/jh_slin/">
+  <a href="https://www.instagram.com/jh_nub/">
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:jhosepjamil@gmail.com">
